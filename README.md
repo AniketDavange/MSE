@@ -7,3 +7,4 @@ implement
 and
 
 2)Mean Squared Error without using numpy.
+
